@@ -1,2 +1,3 @@
 # demo-repo
-demo for implementing repository
+
+demo for implementing repository on Git Hub!
